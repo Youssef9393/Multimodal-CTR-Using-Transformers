@@ -12,8 +12,8 @@ This project implements a state-of-the-art CTR prediction system for the WWW2025
 
 This project is based on the model architecture from 
 [pinskyrobin/WWW2025_MMCTR](https://github.com/pinskyrobin/WWW2025_MMCTR).
+We modified the original architecture by changing the number of layers in the transfomer and DCNv2, and added our proper feature extraction phase.
 <img width="811" height="611" alt="image" src="https://github.com/user-attachments/assets/cce95972-67a6-4d69-bde4-b7cb1cf6c683" />
-We modified the original architecture by changing the number of layers in the transfomer and DCNv2, and added our proper feature extraction phase .
 
 ## Architecture
 
