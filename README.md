@@ -18,7 +18,8 @@ We modified the original architecture by changing the number of layers in the tr
 ## Architecture
 
 ### 1. Feature Extraction Pipeline
-![Embedding Generation](embedding_gen.png)
+<img width="1237" height="503" alt="image" src="https://github.com/user-attachments/assets/1e990990-493c-43fc-8fb6-02e52c34f4fd" />
+
 
 The feature extraction uses **CLIP-ViT-H-14** (laion/CLIP-ViT-H-14-laion2B-s32B-b79K) to generate multimodal embeddings:
 - **Image Encoding**: 1024-dimensional image embeddings
