@@ -1,13 +1,12 @@
+
 # MMCTR - Multimodal Click-Through Rate Prediction
 
 This project implements a state-of-the-art CTR prediction system for the WWW2025 MMCTR Challenge using the MicroLens_1M dataset. The solution combines multimodal embeddings (CLIP), contrastive fine-tuning, and a hybrid Transformer-DCN architecture to achieve high prediction accuracy.
 
 **Key Achievements:**
-- Best validation AUC: **0.9270**
-- Test AUC on codabench: **0.9391**
-
-![Test AUC on codabench](codabench.png)
-
+- Best validation AUC: **0.91**
+- Test AUC on codabench: **0.92**
+- 
 ## Acknowledgements
 
 This project is based on the model architecture from 
