@@ -6,7 +6,7 @@ This project implements a state-of-the-art CTR prediction system for the WWW2025
 **Key Achievements:**
 - Best validation AUC: **0.91**
 - Test AUC on codabench: **0.92**
-- 
+
 ## Acknowledgements
 
 This project is based on the model architecture from 
