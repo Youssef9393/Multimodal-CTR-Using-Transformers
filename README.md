@@ -3,6 +3,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers)
+[![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-4CAF50?style=for-the-badge)](https://huggingface.co/docs/peft/index)
+[![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning-7B1FA2?style=for-the-badge)](https://en.wikipedia.org/wiki/Contrastive_learning)
+[![Multimodal Fusion](https://img.shields.io/badge/Multimodal%20Fusion-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Multimodal_learning)
 
 This project implements a state-of-the-art CTR prediction system for the WWW2025 MMCTR Challenge using the MicroLens_1M dataset. The solution combines multimodal embeddings (CLIP), contrastive fine-tuning, and a hybrid Transformer-DCN architecture to achieve high prediction accuracy.
 
